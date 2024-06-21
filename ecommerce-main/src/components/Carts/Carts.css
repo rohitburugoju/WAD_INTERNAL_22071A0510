@@ -1,0 +1,13 @@
+.list-of-items{
+    display:flex;
+    flex-direction: column;
+}
+.item{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    gap : 50px;
+}
+button{
+    height: 30px;
+}
